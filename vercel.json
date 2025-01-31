@@ -1,0 +1,5 @@
+{
+  "redirects": [
+    { "source": "/(.*)", "destination": "https://margiela53.github.io/$1", "permanent": true }
+  ]
+}
